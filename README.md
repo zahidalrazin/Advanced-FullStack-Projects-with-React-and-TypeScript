@@ -1,4 +1,5 @@
 🌟 Full-Stack React & Next.js Project Portfolio
+
 📜 Overview
 
 This repository is a curated collection of 14 modern web development projects built with React.js, Next.js, TypeScript, and other cutting-edge tools.
@@ -23,27 +24,27 @@ Unsplash-Images	React, Unsplash API	Infinite image search with lazy loading
 
 🛠️ Core Skills Demonstrated
 
-    Frontend Development: React.js, Next.js, TypeScript
+    => Frontend Development: React.js, Next.js, TypeScript
 
-    State Management: Redux Toolkit, React Query, Context API
+    => State Management: Redux Toolkit, React Query, Context API
 
-    UI/UX Design: Tailwind CSS, Responsive Web Design
+    => UI/UX Design: Tailwind CSS, Responsive Web Design
 
-    API Integration: REST APIs, Axios, Unsplash API, Contentful CMS, Stripe API
+    => API Integration: REST APIs, Axios, Unsplash API, Contentful CMS, Stripe API
 
-    Full-Stack Concepts: Prisma ORM, Auth.js, Next.js server-side rendering
+    => Full-Stack Concepts: Prisma ORM, Auth.js, Next.js server-side rendering
 
-    Performance Optimization: Lazy loading, ISR, and SWR patterns
+    => Performance Optimization: Lazy loading, ISR, and SWR patterns
 
 
 🎯 Why This Portfolio Matters
 
 These projects showcase:
 
-    Real-world problem solving — from e-commerce systems to CMS integration.
+    => Real-world problem solving — from e-commerce systems to CMS integration.
 
-    Versatility — ability to adapt to different stacks and tools.
+    => Versatility — ability to adapt to different stacks and tools.
 
-    Industry relevance — aligning with technologies used by modern software companies.
+    => Industry relevance — aligning with technologies used by modern software companies.
 
-    Self-driven learning — building beyond tutorials to create functional, polished apps.
+    => Self-driven learning — building beyond tutorials to create functional, polished apps.
